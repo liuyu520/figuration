@@ -4,6 +4,10 @@ CAST Figuration: A feature rich, responsive, mobile first, accessible, front-end
 
 **Get started at <http://figuration.org/>!**
 
+## Help
+run `npm run docs-serve`
+http://localhost:9001/4.0/layout/overview/
+
 ## Table of Contents
 
 - [Status](#status)
